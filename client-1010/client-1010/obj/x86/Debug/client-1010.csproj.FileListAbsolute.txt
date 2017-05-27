@@ -1,0 +1,27 @@
+E:\mahdy\web\c#projects\server and client\client-1010\client-1010\bin\Debug\client-1010.exe
+E:\mahdy\web\c#projects\server and client\client-1010\client-1010\bin\Debug\client-1010.pdb
+E:\mahdy\web\c#projects\server and client\client-1010\client-1010\obj\x86\Debug\client_1010.Form1.resources
+E:\mahdy\web\c#projects\server and client\client-1010\client-1010\obj\x86\Debug\client_1010.frmMain.resources
+E:\mahdy\web\c#projects\server and client\client-1010\client-1010\obj\x86\Debug\client_1010.Properties.Resources.resources
+E:\mahdy\web\c#projects\server and client\client-1010\client-1010\obj\x86\Debug\client-1010.csproj.GenerateResource.Cache
+E:\mahdy\web\c#projects\server and client\client-1010\client-1010\obj\x86\Debug\client-1010.exe
+E:\mahdy\web\c#projects\server and client\client-1010\client-1010\obj\x86\Debug\client-1010.pdb
+G:\server and client\client-1010\client-1010\obj\x86\Debug\client-1010.exe
+G:\server and client\client-1010\client-1010\obj\x86\Debug\client-1010.pdb
+G:\server and client\client-1010\client-1010\bin\Debug\client-1010.exe
+G:\server and client\client-1010\client-1010\bin\Debug\client-1010.pdb
+G:\server and client\client-1010\client-1010\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\server and client\client-1010\client-1010\obj\x86\Debug\client_1010.Form1.resources
+G:\server and client\client-1010\client-1010\obj\x86\Debug\client_1010.frmMain.resources
+G:\server and client\client-1010\client-1010\obj\x86\Debug\client_1010.Properties.Resources.resources
+G:\server and client\client-1010\client-1010\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\server and client\client-1010\client-1010\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Today\Desktop\server and client\server and client\client-1010\client-1010\obj\x86\Debug\client-1010.exe
+C:\Users\Today\Desktop\server and client\server and client\client-1010\client-1010\obj\x86\Debug\client-1010.pdb
+C:\Users\Today\Desktop\server and client\server and client\client-1010\client-1010\bin\Debug\client-1010.exe
+C:\Users\Today\Desktop\server and client\server and client\client-1010\client-1010\bin\Debug\client-1010.pdb
+C:\Users\Today\Desktop\server and client\server and client\client-1010\client-1010\obj\x86\Debug\client-1010.csprojResolveAssemblyReference.cache
+C:\Users\Today\Desktop\server and client\server and client\client-1010\client-1010\obj\x86\Debug\client_1010.Form1.resources
+C:\Users\Today\Desktop\server and client\server and client\client-1010\client-1010\obj\x86\Debug\client_1010.frmMain.resources
+C:\Users\Today\Desktop\server and client\server and client\client-1010\client-1010\obj\x86\Debug\client_1010.Properties.Resources.resources
+C:\Users\Today\Desktop\server and client\server and client\client-1010\client-1010\obj\x86\Debug\client-1010.csproj.GenerateResource.Cache

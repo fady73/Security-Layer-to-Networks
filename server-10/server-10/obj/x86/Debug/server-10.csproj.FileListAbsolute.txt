@@ -1,0 +1,17 @@
+E:\mahdy\web\c#projects\server and client\server-10\server-10\bin\Debug\server-10.exe
+E:\mahdy\web\c#projects\server and client\server-10\server-10\bin\Debug\server-10.pdb
+E:\mahdy\web\c#projects\server and client\server-10\server-10\obj\x86\Debug\server-10.csprojResolveAssemblyReference.cache
+E:\mahdy\web\c#projects\server and client\server-10\server-10\obj\x86\Debug\server-10.exe
+E:\mahdy\web\c#projects\server and client\server-10\server-10\obj\x86\Debug\server-10.pdb
+G:\server and client\server-10\server-10\obj\x86\Debug\server-10.exe
+G:\server and client\server-10\server-10\obj\x86\Debug\server-10.pdb
+G:\server and client\server-10\server-10\bin\Debug\server-10.exe
+G:\server and client\server-10\server-10\bin\Debug\server-10.pdb
+G:\server and client\server-10\server-10\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\server and client\server-10\server-10\bin\Debug\server-10.exe.config
+C:\Users\Today\Desktop\server and client\server and client\server-10\server-10\bin\Debug\server-10.exe.config
+C:\Users\Today\Desktop\server and client\server and client\server-10\server-10\obj\x86\Debug\server-10.exe
+C:\Users\Today\Desktop\server and client\server and client\server-10\server-10\obj\x86\Debug\server-10.pdb
+C:\Users\Today\Desktop\server and client\server and client\server-10\server-10\bin\Debug\server-10.exe
+C:\Users\Today\Desktop\server and client\server and client\server-10\server-10\bin\Debug\server-10.pdb
+C:\Users\Today\Desktop\server and client\server and client\server-10\server-10\obj\x86\Debug\server-10.csprojResolveAssemblyReference.cache
